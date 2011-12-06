@@ -19,7 +19,7 @@ http://www.slideshare.net/diego.pacheco/functional-society </br>
 We're planning a meetup for next <b>JAN 2012</b>.<br/> 
 More information coming soon... stay tuned! Meanwhile you can follow us in twitter: <br/>
 
-<table>
+<table border="0">
 	<tr>
 		<td>
 			<a href="http://twitter.com/funcsociety">
@@ -27,7 +27,7 @@ More information coming soon... stay tuned! Meanwhile you can follow us in twitt
 			</a>
 		</td>
 		<td>
-			@funcsociety
+			<a href="http://twitter.com/funcsociety">@funcsociety</a>
 		</td>
 	</tr>
 </table>
