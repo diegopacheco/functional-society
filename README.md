@@ -16,13 +16,12 @@ http://www.slideshare.net/diego.pacheco/functional-society </br>
 
 # More Coming Soon
 
-We're planning a meetup for next jan 2012.<br/> 
-More information coming soon... stay tuned! <br/>
+We're planning a meetup for next <b>JAN 2012</b>.<br/> 
+More information coming soon... stay tuned! Meanwhile you can follow us in twitter: <br/>
 
 <a href="http://twitter.com/funcsociety">
-	<img src="http://farm8.staticflickr.com/7010/6461203271_3d4710e416_t.jpg"/>
+	<img src="http://farm8.staticflickr.com/7010/6461203271_3d4710e416_t.jpg"/> @funcsociety
 </a><br/>
-  @funcsociety
 
 # Leadership
 
@@ -31,8 +30,7 @@ More information coming soon... stay tuned! <br/>
 
 # Background
 
-In 2011 we study(Leadership folks) Clojure for a couple of months, <br/>
-a.k.a [dev-clojure](https://github.com/diegopacheco/dev-clojure) and <br/> 
+In 2011 we study(Leadership folks) Clojure for a couple of months a.k.a [dev-clojure](https://github.com/diegopacheco/dev-clojure) <br/> 
 this year(2012 if the world don't end... I mean armagedon!) we more, much more.  
 
 # Languages
