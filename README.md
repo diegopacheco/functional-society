@@ -11,7 +11,11 @@ This is society is a CODE/DEV society so if you don't code or you don't like cod
 
 # why ?
 
-<img src="http://farm8.staticflickr.com/7035/6461121029_de839b8608.jpg"/><br/>
+Please, check tihs presentation out.
+
+<a href="http://www.slideshare.net/diego.pacheco/functional-society">
+	<img src="http://farm8.staticflickr.com/7035/6461121029_de839b8608.jpg"/>
+</a><br/>	
 http://www.slideshare.net/diego.pacheco/functional-society </br>
 
 # More Coming Soon
