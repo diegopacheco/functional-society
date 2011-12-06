@@ -40,9 +40,12 @@ More information coming soon... stay tuned! Meanwhile you can follow us in twitt
 # Background
 
 In 2011 we study(Leadership folks) Clojure for a couple of months a.k.a [dev-clojure](https://github.com/diegopacheco/dev-clojure) <br/> 
-this year(2012 if the world don't end... I mean armagedon!) we more, much more.  
+this year(2012 if the world don't end... I mean armagedon!) we more, much more. IF you want have a taste of what </br>
+was produced in the past year, check the coding dojos that we setup and hosted [coding-dojos](https://github.com/diegopacheco/Diego-Pacheco-Sandbox/tree/master/dojos).
 
-# Languages
+# Resources
+
+## Target Languages
 
 * Clojure  -> http://clojure.org/ <br/>
 * Scala    -> http://www.scala-lang.org/ <br/>
