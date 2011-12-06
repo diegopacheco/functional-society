@@ -19,9 +19,18 @@ http://www.slideshare.net/diego.pacheco/functional-society </br>
 We're planning a meetup for next <b>JAN 2012</b>.<br/> 
 More information coming soon... stay tuned! Meanwhile you can follow us in twitter: <br/>
 
-<a href="http://twitter.com/funcsociety">
-	<img src="http://farm8.staticflickr.com/7010/6461203271_3d4710e416_t.jpg"/> @funcsociety
-</a><br/>
+<table>
+	<tr>
+		<td>
+			<a href="http://twitter.com/funcsociety">
+				<img src="http://farm8.staticflickr.com/7010/6461203271_3d4710e416_t.jpg"/>
+			</a>
+		</td>
+		<td>
+			@funcsociety
+		</td>
+	</tr>
+</table>
 
 # Leadership
 
