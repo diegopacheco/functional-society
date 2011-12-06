@@ -36,6 +36,10 @@ More information coming soon... stay tuned! Meanwhile you can follow us in twitt
 	</tr>
 </table>
 
+# Where
+
+Our meetups/dojos will be always in Porto Alegre, most likely downtown.
+
 # Leadership
 
 * @diego_pacheco <br/>
