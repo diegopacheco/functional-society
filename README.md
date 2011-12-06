@@ -45,6 +45,11 @@ Our meetups/dojos will be always in Porto Alegre, most likely downtown.
 * @diego_pacheco <br/>
 * @alepoletto, @jefersonm, @cyber_jso, @jpcuervo <br/>
 
+# Wanna join Functional Society
+
+Please make a [comment here](https://gist.github.com/1438194) with your name and twitter if you don't have <br/>
+twitter :( please ler your mail at leat, we gonna get in touch soon.
+
 # Background
 
 In 2011 we study(Leadership folks) Clojure for a couple of months a.k.a [dev-clojure](https://github.com/diegopacheco/dev-clojure) <br/> 
