@@ -43,7 +43,7 @@ Our meetups/dojos will be always in Porto Alegre, most likely downtown.
 # Leadership
 
 * @diego_pacheco <br/>
-* @alepoletto, @jefersonm, @cyber_jso, @jpcuervo <br/>
+* @alepoletto, @jefersonm, @cyber_jso, <br/>
 
 # Wanna join Functional Society
 
