@@ -18,11 +18,40 @@ Please, check tihs presentation out.
 </a><br/>	
 http://www.slideshare.net/diego.pacheco/functional-society </br>
 
-# More Coming Soon
+# First Meetup 14/01/2012
 
-We're planning a meetup for next <b>JAN 2012</b>.<br/> 
-More information coming soon... stay tuned! Meanwhile you can follow us in twitter: <br/>
+It's time!!! Let's meet each other on kick ass event at Porto Alegre. <br/> 
+Our very first meetup will be 14/01/2012(saturday) at 671, Jari st - Passo da Areia - Porto Alegre <br/> 
+Google Maps Adress => http://g.co/maps/frjub <br/> 
 
+## Schedulle
+
+* 10:00 - 10:15 Welcome <br/> 
+* 10:15 - 11:00 Keynote: Functional Society the ideas behind the group - Leadership Group <br/> 
+* 11:00 - 12:00 Functional Languages Lighting talks <br/> 
+                  - @diego_pacheco => Scala <br/> 
+		  - @jefersonm     => Clojure <br/> 
+                  - @alepoletto    => ErLang <br/> 
+	          - @cyber_jso     => Haskell <br/> 
+           	  - @Andre_Mayer   => Racket 
+* 12:00 - 13:15 - Lunch at the place <br/> 
+* 13:15 - 14:45 - Scala Coding Dojo<br/> 
+* 14:45 - 16:15 - Functional Fishbowl on beers<br/> 
+* 16:15 - 16:30 - Retrospective <br/> 
+* 16:30 - 17:00 - Next Steps <br/> 
+
+## Register
+
+We only have 25 open places for this meetup, so who awnser the gist first will get the ticket. <br/>
+Plase if you awnser the gist goto the event. <br/>
+In order to register in this kick ass event awnser this gist 
+https://gist.github.com/1487554 with your name + twitter/email. <br/>
+
+## PS
+
+IF you RE-tweet this and send for your functional friends we gonna provide free beer 
+during the fishbowl and maybe free lunch. 
+				  
 <table border="0">
 	<tr>
 		<td>
