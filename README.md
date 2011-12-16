@@ -51,6 +51,8 @@ https://gist.github.com/1487554 with your name + twitter/email. <br/>
 
 IF you RE-tweet this and send for your functional friends we gonna provide free beer 
 during the fishbowl and maybe free lunch. 
+
+# Follow us in twitter
 				  
 <table border="0">
 	<tr>
