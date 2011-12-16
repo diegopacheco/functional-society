@@ -42,7 +42,7 @@ Google Maps Adress => http://g.co/maps/frjub <br/>
 
 ## Register
 
-We only have 25 open places for this meetup, so who awnser the gist first will get the ticket. <br/>
+We only have 24 open places for this meetup, so who awnser the gist first will get the ticket. <br/>
 Plase if you awnser the gist goto the event. <br/>
 In order to register in this kick ass event awnser this gist 
 https://gist.github.com/1487554 with your name + twitter/email. <br/>
