@@ -21,7 +21,14 @@ http://www.slideshare.net/diego.pacheco/functional-society </br>
 # What happen on last meetup/event?
 
 Lots of nice and kick ass stuff happened on last meetup/event, so check it out our wiki page for
-videos, slides, photos and other kick ass content. https://github.com/diegopacheco/functional-society/wiki/%231-Meetup-14-01-2012
+videos, slides, photos and other kick ass content. https://github.com/diegopacheco/functional-society/wiki/%231-Meetup-14-01-2012 <br/>
+
+Looking for help todo the homework? Want share a link or ideas? Check this out: <br/>
+
+## Discussion Gists
+* FP Concepts: Higher Order Functions, Currying and Lambda => https://gist.github.com/1616750
+* Calculator https://gist.github.com/1616761
+* Fizzbuzz https://gist.github.com/1616769
 
 # Next Meetup 25/02/2012
 
@@ -51,13 +58,11 @@ Ask for "Functional Society" or "Alexandre Poletto" <br/>
 ## Register
 
 We only have 24 open places for this meetup, so who awnser the gist first will get the ticket. <br/>
-Plase if you awnser the gist goto the event. <br/>
-In order to register in this kick ass event awnser this gist.
- with your name + twitter/email. <br/>
+Plase if you awnser the gist goto the event: https://gist.github.com/1616886 <br/>
 
 # Follow us in twitter
 				  
-<table border="0">
+<table>
 	<tr>
 		<td>
 			<a href="http://twitter.com/funcsociety">
