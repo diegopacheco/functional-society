@@ -82,10 +82,10 @@ Plase if you awnser the gist goto the event: https://gist.github.com/1616886 <br
 * @jefersonm
 * @cyber_jso
 
-# Wanna join Functional Society
+# Wanna join Functional Society?
 
-Please make a [comment here](https://gist.github.com/1438194) with your name and twitter if you don't have 
-twitter :( please let your mail at leat, we gonna get in touch soon.
+Please make a [comment here](https://gist.github.com/1438194) with your name and twitter if you don't have <br/>
+twitter :( please let your mail at least. Hope you enjoy our events and have with us.
 
 # Background
 
