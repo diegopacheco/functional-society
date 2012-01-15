@@ -18,22 +18,33 @@ Please, check tihs presentation out.
 </a><br/>	
 http://www.slideshare.net/diego.pacheco/functional-society </br>
 
-# First Meetup 14/01/2012
+# What happen on last meetup/event?
 
-It's time!!! Let's meet each other on kick ass event at Porto Alegre. <br/> 
+Lots of nice and kick ass stuff happened on last meetup/event, so check it out our wiki page for
+videos, slides, photos and other kick ass content. https://github.com/diegopacheco/functional-society/wiki/%231-Meetup-14-01-2012
+
+# Second Meetup 25/02/2012
+
+It's time!!! Let's do another kick ass event at Porto Alegre. <br/> 
 Our very first meetup will be 14/01/2012(saturday) at 671, Jari st - Passo da Areia - Porto Alegre <br/> 
+Ask for "Functional Society" or "Alexandre Poletto" <br/>
 Google Maps Adress => http://g.co/maps/frjub <br/> 
+
+https://github.com/diegopacheco/functional-society/wiki/%231-Meetup-14-01-2012
+
+Photos => http://www.flickr.com/photos/diego-pacheco/sets/72157628486435567/
+Videos => http://vimeo.com/album/1805239
 
 ## Schedulle
 
 * 10:00 - 10:15 Welcome <br/> 
 * 10:15 - 11:00 Keynote: Functional Society the ideas behind the group - Leadership Group <br/> 
 * 11:00 - 12:00 Functional Languages Lighting talks <br/> 
-                  - @diego_pacheco => Scala <br/> 
-		  - @jefersonm     => Clojure <br/> 
-                  - @alepoletto    => ErLang <br/> 
-	          - @cyber_jso     => Haskell <br/> 
-           	  - @Andre_Mayer   => Racket 
+          - @diego_pacheco => Scala http://www.slideshare.net/diego.pacheco/scala-fs-2012 <br/> 
+		  - @jefersonm     => Clojure http://www.slideshare.net/jefersonm/clojure-presentation <br/> 
+          - @alepoletto    => ErLang <br/> 
+	      - @cyber_jso     => Haskell <br/> 
+          - @Andre_Mayer   => Racket http://www.slideshare.net/andre_mayer/racket
 * 12:00 - 13:15 - Lunch at the place <br/> 
 * 13:15 - 14:45 - Scala Coding Dojo<br/> 
 * 14:45 - 16:15 - Functional Fishbowl on beers<br/> 
@@ -44,13 +55,8 @@ Google Maps Adress => http://g.co/maps/frjub <br/>
 
 We only have 24 open places for this meetup, so who awnser the gist first will get the ticket. <br/>
 Plase if you awnser the gist goto the event. <br/>
-In order to register in this kick ass event awnser this gist 
-https://gist.github.com/1487554 with your name + twitter/email. <br/>
-
-## PS
-
-IF you RE-tweet this and send for your functional friends we gonna provide free beer 
-during the fishbowl and maybe free lunch. 
+In order to register in this kick ass event awnser this gist.
+ with your name + twitter/email. <br/>
 
 # Follow us in twitter
 				  
@@ -67,14 +73,12 @@ during the fishbowl and maybe free lunch.
 	</tr>
 </table>
 
-# Where
-
-Our meetups/dojos will be always in Porto Alegre, most likely downtown.
-
 # Leadership
 
-* @diego_pacheco <br/>
-* @alepoletto, @jefersonm, @cyber_jso, <br/>
+* @diego_pacheco
+* @alepoletto
+* @jefersonm
+* @cyber_jso
 
 # Wanna join Functional Society
 
@@ -94,5 +98,4 @@ was produced in the past year, check the coding dojos that we setup and hosted [
 * Clojure  -> http://clojure.org/ <br/>
 * Scala    -> http://www.scala-lang.org/ <br/>
 * Haskell  -> http://haskell.org/ <br/>
-* Racket   -> http://racket-lang.org/ <br/>
 * ErLang   -> http://www.erlang.org/ <br/>
