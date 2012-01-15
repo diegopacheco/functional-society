@@ -23,33 +23,30 @@ http://www.slideshare.net/diego.pacheco/functional-society </br>
 Lots of nice and kick ass stuff happened on last meetup/event, so check it out our wiki page for
 videos, slides, photos and other kick ass content. https://github.com/diegopacheco/functional-society/wiki/%231-Meetup-14-01-2012
 
-# Second Meetup 25/02/2012
+# Next Meetup 25/02/2012
 
 It's time!!! Let's do another kick ass event at Porto Alegre. <br/> 
-Our very first meetup will be 14/01/2012(saturday) at 671, Jari st - Passo da Areia - Porto Alegre <br/> 
+
+## Where?
+
+671, Jari st - Passo da Areia - Porto Alegre  | Google Maps Adress => http://g.co/maps/frjub <br/>
 Ask for "Functional Society" or "Alexandre Poletto" <br/>
-Google Maps Adress => http://g.co/maps/frjub <br/> 
-
-https://github.com/diegopacheco/functional-society/wiki/%231-Meetup-14-01-2012
-
-Photos => http://www.flickr.com/photos/diego-pacheco/sets/72157628486435567/
-Videos => http://vimeo.com/album/1805239
 
 ## Schedulle
 
-* 10:00 - 10:15 Welcome <br/> 
-* 10:15 - 11:00 Keynote: Functional Society the ideas behind the group - Leadership Group <br/> 
-* 11:00 - 12:00 Functional Languages Lighting talks <br/> 
-          - @diego_pacheco => Scala http://www.slideshare.net/diego.pacheco/scala-fs-2012 <br/> 
-		  - @jefersonm     => Clojure http://www.slideshare.net/jefersonm/clojure-presentation <br/> 
-          - @alepoletto    => ErLang <br/> 
-	      - @cyber_jso     => Haskell <br/> 
-          - @Andre_Mayer   => Racket http://www.slideshare.net/andre_mayer/racket
-* 12:00 - 13:15 - Lunch at the place <br/> 
-* 13:15 - 14:45 - Scala Coding Dojo<br/> 
-* 14:45 - 16:15 - Functional Fishbowl on beers<br/> 
-* 16:15 - 16:30 - Retrospective <br/> 
-* 16:30 - 17:00 - Next Steps <br/> 
+* 10:00 - 13:00 Homework Presentations on: 
+	* FP Concepts:
+		 * Higer Order Functions
+		 * Lambda
+		 * Currying
+	* Scala and Haskell Problems 
+	   * Calculator
+	   * Fizz Buzz     
+* 13:00 - 14:00 - Lunch at the place 
+* 14:00 - 15:00 - Scala Coding Dojo
+* 15:00 - 16:00 - Haskell Coding Dojo
+* 16:00 - 16:30 - Next Steps
+* 16:30 - 16:45 - Retrospective
 
 ## Register
 
