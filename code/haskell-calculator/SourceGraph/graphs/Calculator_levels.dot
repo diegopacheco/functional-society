@@ -1,0 +1,12 @@
+digraph "Levels within Calculator" {
+	node [label="\N", margin="0.4,0.1", style=filled];
+	subgraph cluster_0 {
+		graph [label="Exported root entities",
+			style=filled,
+			fillcolor=lavender];
+		1 [label=cdiv, style="filled,bold", shape=box, fillcolor=gold];
+		2 [label=cmul, style="filled,bold", shape=box, fillcolor=gold];
+		3 [label=csub, style="filled,bold", shape=box, fillcolor=gold];
+		4 [label=csum, style="filled,bold", shape=box, fillcolor=gold];
+	}
+}

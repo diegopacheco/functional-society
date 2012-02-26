@@ -1,0 +1,43 @@
+digraph "Chinese Whispers module suggestions" {
+	node [label="\N", margin="0.4,0.1", style=filled];
+	subgraph cluster_1 {
+		graph [style=filled,
+			fillcolor=lavender];
+		1 [label="Calculator\ncdiv", style="filled,solid", shape=box, fillcolor=crimson];
+	}
+	subgraph cluster_2 {
+		graph [style=filled,
+			fillcolor=lavender];
+		2 [label="Calculator\ncmul", style="filled,solid", shape=box, fillcolor=crimson];
+	}
+	subgraph cluster_3 {
+		graph [style=filled,
+			fillcolor=lavender];
+		3 [label="Calculator\ncsub", style="filled,solid", shape=box, fillcolor=crimson];
+	}
+	subgraph cluster_4 {
+		graph [style=filled,
+			fillcolor=lavender];
+		4 [label="Calculator\ncsum", style="filled,solid", shape=box, fillcolor=crimson];
+	}
+	subgraph cluster_5 {
+		graph [style=filled,
+			fillcolor=lavender];
+		5 [label="Calculator.Test\nmain", style="filled,solid", shape=box, fillcolor=crimson];
+	}
+	subgraph cluster_6 {
+		graph [style=filled,
+			fillcolor=lavender];
+		6 [label="Calculator.Test\ntest1", style="filled,solid", shape=box, fillcolor=crimson];
+	}
+	subgraph cluster_7 {
+		graph [style=filled,
+			fillcolor=lavender];
+		7 [label="Test\nmain", style="filled,solid", shape=box, fillcolor=crimson];
+	}
+	subgraph cluster_8 {
+		graph [style=filled,
+			fillcolor=lavender];
+		8 [label="Test\ntest1", style="filled,solid", shape=box, fillcolor=crimson];
+	}
+}

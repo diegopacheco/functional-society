@@ -1,0 +1,26 @@
+digraph "Current module groupings" {
+	node [label="\N", margin="0.4,0.1", style=filled];
+	subgraph cluster_Calculator {
+		graph [label=Calculator,
+			style=filled,
+			fillcolor=lavender];
+		1 [label=cdiv, style="filled,solid", shape=box, fillcolor=crimson];
+		2 [label=cmul, style="filled,solid", shape=box, fillcolor=crimson];
+		3 [label=csub, style="filled,solid", shape=box, fillcolor=crimson];
+		4 [label=csum, style="filled,solid", shape=box, fillcolor=crimson];
+	}
+	subgraph "cluster_Calculator-Test" {
+		graph [label="Calculator.Test",
+			style=filled,
+			fillcolor=lavender];
+		5 [label=main, style="filled,solid", shape=box, fillcolor=crimson];
+		6 [label=test1, style="filled,solid", shape=box, fillcolor=crimson];
+	}
+	subgraph cluster_Test {
+		graph [label=Test,
+			style=filled,
+			fillcolor=lavender];
+		7 [label=main, style="filled,solid", shape=box, fillcolor=crimson];
+		8 [label=test1, style="filled,solid", shape=box, fillcolor=crimson];
+	}
+}

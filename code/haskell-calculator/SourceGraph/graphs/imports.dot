@@ -1,0 +1,12 @@
+digraph "Import visualisation" {
+	node [label="\N", margin="0.4,0.1", style=filled];
+	subgraph cluster_Calculator {
+		graph [fillcolor=lavender,
+			style=filled,
+			label=Calculator];
+		2 [label=Test, fillcolor=crimson, shape=tab];
+	}
+	1 [label=Calculator, fillcolor=crimson, shape=tab];
+	3 [label=Test, fillcolor=crimson, shape=tab];
+	2 -> 1 [color=chartreuse];
+}

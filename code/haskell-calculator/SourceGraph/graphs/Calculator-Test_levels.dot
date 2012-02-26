@@ -1,0 +1,15 @@
+digraph "Levels within Calculator.Test" {
+	node [label="\N", margin="0.4,0.1", style=filled];
+	subgraph "cluster_-1" {
+		graph [label="Inaccessible entities",
+			style=filled,
+			fillcolor=lavender];
+		2 [label=test1, style="filled,bold", shape=box, fillcolor=crimson];
+	}
+	subgraph cluster_0 {
+		graph [label="Exported root entities",
+			style=filled,
+			fillcolor=lavender];
+		1 [label=main, style="filled,bold", shape=box, fillcolor=gold];
+	}
+}

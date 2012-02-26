@@ -1,0 +1,5 @@
+digraph "Diagram of: Test" {
+	node [label="\N", margin="0.4,0.1", style=filled];
+	1 [label=main, style="filled,bold", shape=box, fillcolor=gold];
+	2 [label=test1, style="filled,bold", shape=box, fillcolor=crimson];
+}
