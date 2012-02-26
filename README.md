@@ -21,16 +21,21 @@ http://www.slideshare.net/diego.pacheco/functional-society </br>
 # What happen on last meetup/event?
 
 Lots of nice and kick ass stuff happened on last meetup/event, so check it out our wiki page for
-videos, slides, photos and other kick ass content. https://github.com/diegopacheco/functional-society/wiki/%231-Meetup-14-01-2012 <br/>
+videos, slides, photos and other kick ass content. https://github.com/diegopacheco/functional-society/wiki/%232-Meetup-25-02-2012
 
 Looking for help todo the homework? Want share a link or ideas? Check this out: <br/>
 
 ## Discussion Gists
+
+* FP Concepts: Recursion, List Comprehensions, Monads https://gist.github.com/1917527
+* Bank https://gist.github.com/1917536
+* Contact Address https://gist.github.com/1917614
+
 * FP Concepts: Higher Order Functions, Currying and Lambda => https://gist.github.com/1616750
 * Calculator https://gist.github.com/1616761
 * Fizzbuzz https://gist.github.com/1616769
 
-# Next Meetup 25/02/2012
+# Next Meetup 31/03/2012
 
 It's time!!! Let's do another kick ass event at Porto Alegre. <br/> 
 
@@ -43,12 +48,12 @@ Ask for "Functional Society" or "Alexandre Poletto" <br/>
 
 * 10:00 - 13:00 Homework Presentations on: 
 	* FP Concepts:
-		 * Higer Order Functions
-		 * Lambda
-		 * Currying
+		 * Recursion
+		 * List Comprehensions
+		 * Monads
 	* Scala and Haskell Problems 
-	   * Calculator
-	   * Fizz Buzz     
+	   * Bank
+	   * Contact Address     
 * 13:00 - 14:00 - Lunch at the place 
 * 14:00 - 15:00 - Scala Coding Dojo
 * 15:00 - 16:00 - Haskell Coding Dojo
@@ -57,7 +62,7 @@ Ask for "Functional Society" or "Alexandre Poletto" <br/>
 
 ## Register
 
-We only have 24 open places for this meetup, so who awnser the gist first will get the ticket. <br/>
+We only have 25 open places for this meetup, so who awnser the gist first will get the ticket. <br/>
 Plase if you awnser the gist goto the event: https://gist.github.com/1616886 <br/>
 
 # Follow us in twitter
@@ -101,3 +106,8 @@ was produced in the past year, check the coding dojos that we setup and hosted [
 * Scala    -> http://www.scala-lang.org/ <br/>
 * Haskell  -> http://haskell.org/ <br/>
 * ErLang   -> http://www.erlang.org/ <br/>
+
+## All Meetups Content
+
+* #2 25 02 2012 https://github.com/diegopacheco/functional-society/wiki/%232-Meetup-25-02-2012 <br/>
+* #1 14 01 2012 https://github.com/diegopacheco/functional-society/wiki/%231-Meetup-14-01-2012 <br/>
