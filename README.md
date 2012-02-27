@@ -31,10 +31,6 @@ Looking for help todo the homework? Want share a link or ideas? Check this out: 
 * Bank https://gist.github.com/1917536
 * Contact Address https://gist.github.com/1917614
 
-* FP Concepts: Higher Order Functions, Currying and Lambda => https://gist.github.com/1616750
-* Calculator https://gist.github.com/1616761
-* Fizzbuzz https://gist.github.com/1616769
-
 # Next Meetup 31/03/2012
 
 It's time!!! Let's do another kick ass event at Porto Alegre. <br/> 
@@ -111,3 +107,14 @@ was produced in the past year, check the coding dojos that we setup and hosted [
 
 * #2 25 02 2012 https://github.com/diegopacheco/functional-society/wiki/%232-Meetup-25-02-2012 <br/>
 * #1 14 01 2012 https://github.com/diegopacheco/functional-society/wiki/%231-Meetup-14-01-2012 <br/>
+ 
+## All Gists/Discussions
+
+## Discussion Gists
+
+* FP Concepts: Recursion, List Comprehensions, Monads https://gist.github.com/1917527
+* Bank https://gist.github.com/1917536
+* Contact Address https://gist.github.com/1917614
+* FP Concepts: Higher Order Functions, Currying and Lambda => https://gist.github.com/1616750
+* Calculator https://gist.github.com/1616761
+* Fizzbuzz https://gist.github.com/1616769
