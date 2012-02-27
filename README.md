@@ -76,6 +76,20 @@ Plase if you awnser the gist goto the event: https://gist.github.com/1616886 <br
 	</tr>
 </table>
 
+## All Meetups Content
+
+* #2 25 02 2012 https://github.com/diegopacheco/functional-society/wiki/%232-Meetup-25-02-2012 <br/>
+* #1 14 01 2012 https://github.com/diegopacheco/functional-society/wiki/%231-Meetup-14-01-2012 <br/>
+ 
+## All Gists/Discussions
+
+* FP Concepts: Recursion, List Comprehensions, Monads https://gist.github.com/1917527
+* Bank https://gist.github.com/1917536
+* Contact Address https://gist.github.com/1917614
+* FP Concepts: Higher Order Functions, Currying and Lambda => https://gist.github.com/1616750
+* Calculator https://gist.github.com/1616761
+* Fizzbuzz https://gist.github.com/1616769
+
 # Leadership
 
 * @diego_pacheco
@@ -102,19 +116,3 @@ was produced in the past year, check the coding dojos that we setup and hosted [
 * Scala    -> http://www.scala-lang.org/ <br/>
 * Haskell  -> http://haskell.org/ <br/>
 * ErLang   -> http://www.erlang.org/ <br/>
-
-## All Meetups Content
-
-* #2 25 02 2012 https://github.com/diegopacheco/functional-society/wiki/%232-Meetup-25-02-2012 <br/>
-* #1 14 01 2012 https://github.com/diegopacheco/functional-society/wiki/%231-Meetup-14-01-2012 <br/>
- 
-## All Gists/Discussions
-
-## Discussion Gists
-
-* FP Concepts: Recursion, List Comprehensions, Monads https://gist.github.com/1917527
-* Bank https://gist.github.com/1917536
-* Contact Address https://gist.github.com/1917614
-* FP Concepts: Higher Order Functions, Currying and Lambda => https://gist.github.com/1616750
-* Calculator https://gist.github.com/1616761
-* Fizzbuzz https://gist.github.com/1616769
