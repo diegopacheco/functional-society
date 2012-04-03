@@ -31,25 +31,25 @@ Looking for help todo the homework? Want share a link or ideas? Check this out: 
 * Bank https://gist.github.com/1917536
 * Contact Address https://gist.github.com/1917614
 
-# Next Meetup 31/03/2012
+# Next Meetup 28/04/2012
 
 It's time!!! Let's do another kick ass event at Porto Alegre. <br/> 
 
 ## Where?
 
-671, Jari st - Passo da Areia - Porto Alegre  | Google Maps Adress => http://g.co/maps/frjub <br/>
-Ask for "Functional Society" or "Alexandre Poletto" <br/>
+Shopping Total - Avenida Christovão Colombo, 545 (predio 2, quinto andar) - Porto Alegre  | Google Maps Adress => http://g.co/maps/pzdmp <br/>
+Nos Co Working => http://www.noscoworking.com.br/
+Ask for "Functional Society" or "Jackson dos Santos" <br/>
 
 ## Schedulle
 
 * 10:00 - 13:00 Homework Presentations on: 
 	* FP Concepts:
-		 * Recursion
-		 * List Comprehensions
-		 * Monads
+		 * Pattern Matcher
+		 * Functor
+		 * Monoid
 	* Scala and Haskell Problems 
-	   * Bank
-	   * Contact Address     
+	     * Bingo   
 * 13:00 - 14:00 - Lunch at the place 
 * 14:00 - 15:00 - Scala Coding Dojo
 * 15:00 - 16:00 - Haskell Coding Dojo
@@ -78,9 +78,10 @@ Plase if you awnser the gist goto the event: https://gist.github.com/1616886 <br
 
 ## All Meetups Content
 
+* #3 30 02 2012 
 * #2 25 02 2012 https://github.com/diegopacheco/functional-society/wiki/%232-Meetup-25-02-2012 <br/>
 * #1 14 01 2012 https://github.com/diegopacheco/functional-society/wiki/%231-Meetup-14-01-2012 <br/>
- 
+
 ## All Gists/Discussions
 
 * FP Concepts: Recursion, List Comprehensions, Monads https://gist.github.com/1917527
