@@ -90,6 +90,8 @@ Plase if you awnser the gist goto the event: https://gist.github.com/1616886 <br
 * FP Concepts: Higher Order Functions, Currying and Lambda => https://gist.github.com/1616750
 * Calculator https://gist.github.com/1616761
 * Fizzbuzz https://gist.github.com/1616769
+* FP Concepts: Recursion, List Comprehensions, Monads https://gist.github.com/2291772
+* Bingo https://gist.github.com/2291727
 
 # Leadership
 
