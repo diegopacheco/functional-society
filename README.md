@@ -78,7 +78,7 @@ Plase if you awnser the gist goto the event: https://gist.github.com/1616886 <br
 
 ## All Meetups Content
 
-* #3 30 02 2012 
+* #3 30 02 2012 https://github.com/diegopacheco/functional-society/wiki/%233-meetup-30-03-2012 <br/>
 * #2 25 02 2012 https://github.com/diegopacheco/functional-society/wiki/%232-Meetup-25-02-2012 <br/>
 * #1 14 01 2012 https://github.com/diegopacheco/functional-society/wiki/%231-Meetup-14-01-2012 <br/>
 
