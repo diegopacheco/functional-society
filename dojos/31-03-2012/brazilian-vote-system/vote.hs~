@@ -1,0 +1,17 @@
+
+data VT = Vote { president :: Candidate,
+ 		 governor  :: Candidate,
+		 senator   :: Candidate		
+               } deriving (Show) 
+
+
+data CD = Candidate { name :: String,
+		      votes :: Int
+} deriving (Show)
+
+vote [v] = let p = v.president.votes
+           let g = v.governor.votes
+           let s = v.senator.votes
+
+
+
