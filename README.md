@@ -31,9 +31,20 @@ Looking for help todo the homework? Want share a link or ideas? Check this out: 
 * Bank https://gist.github.com/1917536
 * Contact Address https://gist.github.com/1917614
 
-# Next Meetup 28/04/2012
+# Next Meetup 28/04/2012 (Update)
 
-It's time!!! Let's do another kick ass event at Porto Alegre. <br/> 
+<strike>It's time!!! Let's do another kick ass event at Porto Alegre.</strike> <br/> 
+
+I'm not seeing so much people for this next meeting, so I'd like to propose a new date for it. <br/> 
+
+What do you think about these days: <br/> 
+
+12/05/2012<br/> 
+19/05/2012<br/> 
+
+What do you think about it? Please answer inside this gist: <br/> 
+
+https://gist.github.com/2503832 <br/>
 
 ## Where?
 
