@@ -33,8 +33,6 @@ Looking for help todo the homework? Want share a link or ideas? Check this out: 
 
 # Next Meetup 28/04/2012 (Update)
 
-<strike>It's time!!! Let's do another kick ass event at Porto Alegre.</strike> <br/> 
-
 I'm not seeing so much people for this next meeting, so I'd like to propose a new date for it. <br/> 
 
 What do you think about these days: <br/> 
